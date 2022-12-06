@@ -2,6 +2,8 @@
 Assignment 4 - Page Building in Vue/Nuxt
 author: Myka Peligrino
 
+Netlify deployment: https://inspiring-paletas-dc44fc.netlify.app/
+
 ## Info
 This is an Interior Design Website. I took inspiration from the mockup that I did before.
 - Figma link: https://www.figma.com/file/HD4XiWrFqh6JWFbPpI91Fm/dsgn270-achievements1-myka-peligrino?node-id=6%3A34&t=Fy3tM7JU8EuxxZaL-0
