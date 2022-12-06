@@ -1,8 +1,8 @@
 <template>
   <div>
-    <AppSection />
+    <!-- <AppSection /> -->
 
-    <!-- <AppCard /> -->
+    <AppCard />
   </div>
 </template>
 
