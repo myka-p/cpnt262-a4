@@ -1,8 +1,6 @@
 <template>
-  <div>
-    <AppSection />
-
-    <!-- <AppCard /> -->
+  <div class="w-full max-w-readable">
+    <AppCard />
   </div>
 </template>
 
